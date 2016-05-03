@@ -1,2 +1,2 @@
 # teamapp
-proefproject voor ionic2
+Pilotproject for Ionic2, Git(hub) and a to be determined BAAS provider.
